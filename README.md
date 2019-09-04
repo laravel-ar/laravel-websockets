@@ -5,19 +5,19 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/beyondcode/laravel-websockets.svg?style=flat-square)](https://scrutinizer-ci.com/g/beyondcode/laravel-websockets)
 [![Total Downloads](https://img.shields.io/packagist/dt/beyondcode/laravel-websockets.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-websockets)
 
-Bring the power of WebSockets to your Laravel application. Drop-in Pusher replacement, SSL support, Laravel Echo support and a debug dashboard are just some of its features.
+اضف قوت الـ WebSockets  الي تطبيق لارفال الخاص بك . و استبدل Pusher بهذه الاضافة, تدعم الSSL , لارفال Echo, و بالاضافة الي لوحة تصحيح المعلومات هذا فقط جزء من امكانيات الاضافة
 
 [![https://phppackagedevelopment.com](https://beyondco.de/courses/phppd.jpg)](https://phppackagedevelopment.com)
 
-If you want to learn how to create reusable PHP packages yourself, take a look at my upcoming [PHP Package Development](https://phppackagedevelopment.com) video course.
 
-## Documentation
+## التوثيق
 
-For installation instructions, in-depth usage and deployment details, please take a look at the [official documentation](https://docs.beyondco.de/laravel-websockets/).
+من اجل تثبيت هذه الاضافة يرجئ القاء نظرة علي التوثيق الرسمي - بالانجليزية لم يعرب بعد. :)
+ [official documentation](https://docs.beyondco.de/laravel-websockets/).
 
-### Changelog
+### سجل التغيرات
 
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+الرجاء مراجعة [CHANGELOG] (CHANGELOG.md) للحصول على مزيد من المعلومات حول ما تغير مؤخرًا.
 
 ## Contributing
 
