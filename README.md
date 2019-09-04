@@ -5,7 +5,11 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/beyondcode/laravel-websockets.svg?style=flat-square)](https://scrutinizer-ci.com/g/beyondcode/laravel-websockets)
 [![Total Downloads](https://img.shields.io/packagist/dt/beyondcode/laravel-websockets.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-websockets)
 
-اضف قوت الـ WebSockets  الي تطبيق لارفال الخاص بك . و استبدل Pusher بهذه الاضافة, تدعم الSSL , لارفال Echo, و بالاضافة الي لوحة تصحيح المعلومات هذا فقط جزء من امكانيات الاضافة
+اضف قوت الـ WebSockets
+  الي تطبيق لارفال الخاص بك . و استبدل
+   Pusher
+    بهذه الاضافة, تدعم
+     الSSL , لارفال Echo, و بالاضافة الي لوحة تصحيح المعلومات هذا فقط جزء من امكانيات الاضافة
 
 [![https://phppackagedevelopment.com](https://beyondco.de/courses/phppd.jpg)](https://phppackagedevelopment.com)
 
@@ -17,7 +21,9 @@
 
 ### سجل التغيرات
 
-الرجاء مراجعة [CHANGELOG] (CHANGELOG.md) للحصول على مزيد من المعلومات حول ما تغير مؤخرًا.
+الرجاء مراجعة 
+ [CHANGELOG](CHANGELOG.md)
+للحصول على مزيد من المعلومات حول ما تغير مؤخرًا.
 
 ## Contributing
 
